@@ -1,0 +1,50 @@
+{
+  "SUM": {
+    "branch": "12",
+    "assignments": {}
+  },
+  "IF": {
+    "branch": "3",
+    "assignments": {}
+  },
+  "MATCH": {
+    "branch": "6",
+    "assignments": {}
+  },
+  "CONCAT": {
+    "branch": "9",
+    "assignments": {}
+  },
+  "COUNT": {
+    "branch": "1",
+    "assignments": {}
+  },
+  "AVERAGE": {
+    "branch": "2",
+    "assignments": {}
+  },
+  "IFS": {
+    "branch": "4",
+    "assignments": {}
+  },
+  "AND": {
+    "branch": "5",
+    "assignments": {}
+  },
+  "VLOOKUP": {
+    "branch": "7",
+    "assignments": {}
+  },
+  "MAX": {
+    "branch": "8",
+    "assignments": {}
+  },
+  "TRIM": {
+    "branch": "10",
+    "assignments": {}
+  },
+  "LOWER": {
+    "branch": "11",
+    "assignments": {}
+  }
+}
